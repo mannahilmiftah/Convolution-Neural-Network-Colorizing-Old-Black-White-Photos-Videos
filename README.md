@@ -18,4 +18,4 @@ This project automates the colorization of grayscale (black & white) images usin
 Based on "Colorful Image Colorization" by Zhang et al. (UC Berkeley). Read the full paper here: [arXiv Link](https://arxiv.org/pdf/1603.08511.pdf).
 
 # Project Link
-https://drive.google.com/drive/folders/1iQuAMSQbadlXh9hlf0YiwddjwMPAwI5k?usp=share_link
+https://drive.google.com/drive/folders/1ADI_UW9l-9Ka7G5v3nJXbiP0--4-LUxp?usp=sharing 
