@@ -1,4 +1,4 @@
-# Convolution Neural Network-Colorizing Old Black & White Photos & Videos
+# Convolutional Neural Network-Colorizing Old Black & White Photos & Videos
 
 
 # Project Description:
@@ -22,6 +22,7 @@ https://drive.google.com/drive/folders/135heN0twMGyI5Lgwe2BXWvj9q8pS2RV7?usp=dri
 
 # Output:
 You can see the output files on the following link.
+
 https://drive.google.com/drive/folders/1C8ipmHtdzWTrwbpNjBdr9EIoH8ThmHQN?usp=drive_link
 
 # Reference Paper:
